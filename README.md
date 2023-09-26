@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Go, Java, Cryptography**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
