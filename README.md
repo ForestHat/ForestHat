@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
-<h3 align="center">I'm a student in Saint Petersburg</h3>
+<h3 align="center">I'm a student</h3>
 
 - 🔭 I’m currently working on **data analysis**
 
