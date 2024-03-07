@@ -2,4 +2,4 @@
 
 - I’m currently learning **Rust, Go, Java, Cryptography**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForestHat&theme=vue-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForestHat&theme=vue-dark)
